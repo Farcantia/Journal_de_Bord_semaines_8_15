@@ -2,7 +2,7 @@
 ## Retour sur la visite de SidLee et PixMob
 
 ### Intérêt
-Laquelle des conférences as-tu préféré et pourquoi? (2 à 3 lignes) 
+J'ai préféré la conférence avec SidLee car ils ont une approche que PixMob n'a pas vraiment. Ils ont une énergie joviale et intéressante à regarder que PixMob n'ont pas forcément malgré leur bonne présentation. Je crois avoir beaucoup plus appris avec leur la conférence de SidLee que celle de PixMob. 
 
 ### Travail
-Te verrais-tu travailler dans une des deux entreprises? Si oui, laquelle et pour quelle raison? Si non, pourquoi? (2 à 3 lignes)
+Je me verrais bien travailler avec PixMob car leur entreprise touche directement mon milieu qui est celui du jeu vidéo. Également, Leur équipe donne vraiment envie de venir travailler à leur côté car ils semblent soudés. C'est pour ces raisons que j'aurais envie de venir travailler pour eux et contribuer dans le domaine du jeu vidéo.
