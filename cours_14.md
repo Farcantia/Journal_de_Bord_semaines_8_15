@@ -3,16 +3,19 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Une boisson gazeuse bonne pour la santé.  
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Coca-Cola Health est une boisson bonne pour la santé n'ayant aucun sucre rajouté ou artificiel à l'intérieur. 
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/112189143/206742247-5bc0645d-4c67-4f67-b81a-8a0f8c7457d4.png)
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+ ![2022-12-09 11_00_20-Coca-Cola Health pptx et 2 pages de plus - Travail – Microsoft​ Edge](https://user-images.githubusercontent.com/112189143/206742523-6d6cfc9c-932a-4bd7-b70d-509f2679ecd8.png)
+![2022-12-09 11_00_20-Coca-Cola Health pptx et 2 pages de plus - Travail – Microsoft​ Edge](https://user-images.githubusercontent.com/112189143/206742629-4dc0bf1e-16f0-4b75-be23-9f4d30a872e1.png)
+
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
