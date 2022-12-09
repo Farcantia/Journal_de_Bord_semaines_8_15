@@ -3,10 +3,10 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Une boisson gazeuse bonne pour la santé.  
+Une boisson gazeuse bonne pour la santé. (publicité de mise en avant animée) 
 
 ### Description du projet 
-Coca-Cola Health est une boisson bonne pour la santé n'ayant aucun sucre rajouté ou artificiel à l'intérieur. 
+Coca-Cola Health est une boisson bonne pour la santé n'ayant aucun sucre rajouté ou artificiel à l'intérieur. Elle est mise en avant à l'aide d'une publicité animée.
 
 ### Schéma du projet ou scénarimage
 
