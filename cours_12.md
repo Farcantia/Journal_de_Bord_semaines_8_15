@@ -1,7 +1,7 @@
 # Cours 12
 ## Préparation de la présentation 3 
 
-Le but de ce projet est de présenté une nouvelle forme de Coca-Cola à partir de leur recette mondialement connu qui serait bonne pour la santé. Plusieurs fois dans le passé, ils ont essayés d'adopter ce concept sans réellement le faire car la boisson contient quand même du sucre. Le produit sera présenté sous-forme de publicité au  grand public.
+Le but de ce projet est de présenté une nouvelle forme de Coca-Cola à partir de leur recette mondialement connu qui serait bonne pour la santé. Plusieurs fois dans le passé, ils ont essayés d'adopter ce concept sans réellement le faire, car la boisson contient quand même du sucre. Le produit sera présenté sous-forme de publicité animée au  grand public.
 
 ![2022-11-25 11_27_58-Coca-Cola Zéro avec Zéro Caféine _ Coca-Cola Canada](https://user-images.githubusercontent.com/112189143/204029873-c1c59835-9bdf-4d23-81bc-18d3fcb6ec75.png)
 
