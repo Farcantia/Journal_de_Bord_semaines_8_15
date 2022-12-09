@@ -19,7 +19,7 @@ Coca-Cola Health est une boisson bonne pour la santé n'ayant aucun sucre rajout
 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+L'animation.
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Brainstorm, Carte heuristique, Scénarimage, Programmation, Direction artistique, Modélisation 3D, Animation 3D, Textures, Direction sonore et Gestionnaire de projet.
