@@ -14,7 +14,8 @@ Coca-Cola Health est une boisson bonne pour la santé n'ayant aucun sucre rajout
 
 ### Moodboard
  ![2022-12-09 11_00_20-Coca-Cola Health pptx et 2 pages de plus - Travail – Microsoft​ Edge](https://user-images.githubusercontent.com/112189143/206742523-6d6cfc9c-932a-4bd7-b70d-509f2679ecd8.png)
-![2022-12-09 11_00_20-Coca-Cola Health pptx et 2 pages de plus - Travail – Microsoft​ Edge](https://user-images.githubusercontent.com/112189143/206742629-4dc0bf1e-16f0-4b75-be23-9f4d30a872e1.png)
+
+![2022-12-09 11_01_15-Coca-Cola Health pptx et 2 pages de plus - Travail – Microsoft​ Edge](https://user-images.githubusercontent.com/112189143/206742748-79988c6e-a116-46e4-bd76-566981cc9296.png)
 
 
 ### Technologies
